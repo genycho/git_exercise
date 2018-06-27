@@ -7,7 +7,7 @@ public class GitExercise {
 	}
 	
 	public String truth() {
-		String truth = "정상인은 못 생겼다.";
+		String truth = "정상인은 잘 생겼다.";
 		return truth;
 	}
 
